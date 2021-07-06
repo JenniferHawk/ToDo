@@ -22,6 +22,7 @@ form {
 }
 form input,
 form button {
+  placeholder: "not more than 15 chars";
   padding: 0.5rem;
   font-size: 2rem;
   border: none;
